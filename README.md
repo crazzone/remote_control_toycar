@@ -2,6 +2,9 @@
 
 This is a project for asme 2019 competition.
 
+# Requirement
+Get 16 different size bolls to a place.
+
 ![](https://i.imgur.com/9I0JE1H.jpg)
 
 # How to connect all devices?
